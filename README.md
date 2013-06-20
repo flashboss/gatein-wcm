@@ -21,7 +21,7 @@ Components
 - gatein-wcm-distribution ( Configuration of modeshape component for GateIn WCM)
 - gatein-wcm-integration-tests ( Set of tests for GateIn WCM )
 
-Requeriments
+Requirements
 ------------
 
 - JDK 1.6 or JDK 1.7
